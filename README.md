@@ -2,7 +2,7 @@
 
 A Project to help teams estimate the points for stories during Sprint Grooming.
 
-This is achieved by sockets and it was build as a desktop app using Java swing.
+This was achieved using sockets and it was build as a desktop app using Java swing.
 
 A video of the working is shown below
 
