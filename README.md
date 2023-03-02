@@ -1,4 +1,4 @@
-# SprintPlannerJava
+# SprintEstimator
 
 A Project to help teams estimate the points for stories during Sprint Grooming.
 
@@ -6,4 +6,4 @@ This was achieved using sockets and it was build as a desktop app using Java swi
 
 A video of the working is shown below
 
-[![SprintPlanner](https://img.youtube.com/vi/sz8JeMNeuaQ/0.jpg)](https://www.youtube.com/watch?v=sz8JeMNeuaQ)
+[![SprintEstimator](https://img.youtube.com/vi/sz8JeMNeuaQ/0.jpg)](https://www.youtube.com/watch?v=sz8JeMNeuaQ)
