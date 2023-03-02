@@ -1,4 +1,4 @@
-# SprintEstimator
+# Sprint Estimator
 
 A Project to help teams estimate the points for stories during Sprint Grooming.
 
